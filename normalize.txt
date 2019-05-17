@@ -1,0 +1,8 @@
+&&&
+籍贯:All_delete
+&&&
+ALK[VENTANA]|ALK[VENTANA-D5F3]@@
+ALK-NEG|ALK阴性
+&&&
+4R组:0/1|test@@
+第4R组:0/1|test1
